@@ -1,6 +1,9 @@
 Challenge Name: Ghosted
+
 Category: Reverse Engineering / Binary Exploitation
+
 Date: 5/31/2025
+
 Author: Ben Lehman
 
 This is my writeup of the Ghosted ctf from battelle's challenges
@@ -445,7 +448,7 @@ How would you like to proceed?
                     [4] - Make a complaint
 
 3
-flag{Wh0_NE3D5_RCE_4Nyway}
+flag{}
 ```
 
-And there is our flag: flag{Wh0_NE3D5_RCE_4Nyway}
+And there is our flag! I removed the contents to avoid spoilers if you wanted to try this challenge yourself.
