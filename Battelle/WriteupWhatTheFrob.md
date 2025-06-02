@@ -1,8 +1,8 @@
 Challenge Name: WhatTheFrob
 
-Category: Reverse Engineering / Binary Exploitation
+Category: Reverse Engineering and Cryptography Challenge 
 
-Date: 
+Date: 6/1/2025
 
 Author: Ben Lehman
 

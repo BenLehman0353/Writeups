@@ -1,6 +1,6 @@
 Challenge Name: Ghosted
 
-Category: Reverse Engineering / Binary Exploitation
+Category: Binary Exploitation Challenge
 
 Date: 5/31/2025
 
